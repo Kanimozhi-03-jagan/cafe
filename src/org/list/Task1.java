@@ -56,6 +56,11 @@ public static void main(String[] args) {
 	 //importatn***Iterate
 	 for (String string : arraylist) {
 		System.out.println(string);
+		
+		 arraylist.set(0, "bmw");
+		 System.out.println( cofeelist);
+		
+		
 	}
 	 
 	 
