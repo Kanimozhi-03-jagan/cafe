@@ -57,8 +57,12 @@ public static void main(String[] args) {
 	 for (String string : arraylist) {
 		System.out.println(string);
 		
+		 arraylist.set(0, "bmw");
+		 System.out.println("coffeelist");
+
 		 arraylist.add(null);
 		 System.out.println( treelist);
+
 		
 		
 	}
