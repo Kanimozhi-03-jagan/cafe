@@ -59,6 +59,10 @@ public static void main(String[] args) {
 		
 		 arraylist.set(0, "bmw");
 		 System.out.println("coffeelist");
+
+		 arraylist.add(null);
+		 System.out.println( treelist);
+
 		
 		
 	}
