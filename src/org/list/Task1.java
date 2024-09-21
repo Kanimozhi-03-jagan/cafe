@@ -58,7 +58,7 @@ public static void main(String[] args) {
 		System.out.println(string);
 		
 		 arraylist.set(0, "bmw");
-		 System.out.println( cofeelist);
+		 System.out.println( "coffeelist");
 		
 		
 	}
